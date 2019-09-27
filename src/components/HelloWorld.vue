@@ -36,6 +36,9 @@ export default {
     font-size:8.2em;
     color:white;
     text-align: left;
+     @include media-breakpoint-down(md) {
+    font-size:3.2em;
+  }
   }
   ul{
    margin:0px;
@@ -43,6 +46,9 @@ export default {
     li{
     padding: 0px 20px;
     font-size:1.2em;
+    @include media-breakpoint-down(md) {
+    font-size:0.8em;
+  }
     a{
       color:white;
       &:hover{
