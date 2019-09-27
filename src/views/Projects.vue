@@ -12,7 +12,7 @@
       <b-card-text>
         Created this page using jQuery, HTML and SCSS, imported to Zesty CMS, values connected using Parsley templating language. Attached to Sony's Alpha Universe.
       </b-card-text>
-            <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+            <b-button variant="outline-dark" href="https://alphauniverse.com/creative-space-nyc/">Visit site</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
@@ -22,7 +22,7 @@
       <b-card-text>
         Led development effort for implementing localization functionality for 22 languages, as well as importing trasnlation, adjusting UI and maintaining clean and organized git flows. Built using Vue, SASS, Bootstrap and Webpack.
       </b-card-text>
-      <b-button variant="outline-dark" href="https://www.vmwareiotsolutions.com/">Learn more</b-button>
+      <b-button variant="outline-dark" href="https://www.concur.com/self-guided-demo-expense#/">Learn more</b-button>
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
       </template>
@@ -51,7 +51,7 @@
         Led the development effort on creating functionality for localization in Mandarin.
         Built using Vue, Vanilla Javascript,  SASS, and Webpack
       </b-card-text>
-                  <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+                  <b-button variant="outline-dark" href="https://www.vmwareiotsolutions.com/">Visit site</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
@@ -63,7 +63,7 @@
         Added multiple features such as progress tracking, state management, and other UI components. 
         Built using Vue, SASS, Bootstrap and Webpack
       </b-card-text>
-                  <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+                  <b-button variant="outline-dark" href="https://www.nintex.com/guided-tour/#/manage/process-management/intro/">Visit site</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
@@ -93,7 +93,7 @@
       <b-card-text>
         Trendly is a RESTful API that connects users via (Short Message Service) SMS to Meetup (https://www.meetup.com/). This app allows users to sign up with their Meetup User ID via text message. Once signed up, users will automatically receive a text notification 24 hours before any of their upcoming meetup events. 
       </b-card-text>
-                  <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+                  <b-button variant="outline-dark" href="https://github.com/Meetup-Trendly/trendly-server">Visit site</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
@@ -104,7 +104,7 @@
       <b-card-text>
         Geo-Jumper is a multiplayer fullstack platform game that combines socket.io with a frontend React library. This application is designed to create a unique game experience by matching online users to race to the finish line and be the first to catch the star. This application showcases a multiplayer/multi-level game and persists user data using MongoDB.
       </b-card-text>
-                  <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+                  <b-button variant="outline-dark" href="https://geo-jumper-frontend.herokuapp.com">Play now!</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
@@ -115,7 +115,7 @@
       <b-card-text>
         Smackitball is a sci-fi themed racket sport designed from the ground up for virtual reality. I worked on the intial prototype entually leading to this final deployed verison. Built using Unity, C#, Javascript. 
       </b-card-text>
-                  <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
+                  <b-button variant="outline-dark" href="https://store.steampowered.com/app/461320/Smackitball/">Steam link</b-button>
 
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
