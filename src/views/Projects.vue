@@ -10,7 +10,7 @@
   <b-card-group>
     <b-card title="Sony Creator Space NY" :img-src="require('../assets/creatorSpace.png')" img-alt="Image" img-top>
       <b-card-text>
-        Created this page using jQuery, HTML and SCSS, imported to Zesty CMS, values connected using Parsley templating language. Attached to Sony's Alpha Universe.
+        Created this page using jQuery, HTML and SCSS, imported to Zesty CMS, made customizable using Parsley templating language. Attached to Sony's Alpha Universe.
       </b-card-text>
             <b-button variant="outline-dark" href="https://alphauniverse.com/creative-space-nyc/">Visit site</b-button>
 
