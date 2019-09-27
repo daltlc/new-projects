@@ -22,7 +22,7 @@
       <b-card-text>
         Led development effort for implementing localization functionality for 22 languages, as well as importing trasnlation, adjusting UI and maintaining clean and organized git flows. Built using Vue, SASS, Bootstrap and Webpack.
       </b-card-text>
-      <b-button variant="outline-dark" href="https://www.concur.com/self-guided-demo-expense#/">Learn more</b-button>
+      <b-button variant="outline-dark" href="https://www.concur.com/self-guided-demo-expense#/">Visit site</b-button>
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
       </template>
