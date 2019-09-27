@@ -8,22 +8,21 @@
         <div class="col-xl-2 col-md-0"></div>
         <div class="col-xl-12 col-md-12">
   <b-card-group>
-    <b-card title="Concur localization for 22 languages" :img-src="require('../assets/concur.png')"  img-alt="Image" img-top>
-      <b-card-text>
-        Led development effort for implementing localization functionality for 22 languages, as well as importing trasnlation, adjusting UI and maintaining clean and organized git flows. Built using Vue, SASS, Bootstrap and Webpack.
-      </b-card-text>
-      <b-button variant="outline-dark" href="https://www.vmwareiotsolutions.com/">Learn more</b-button>
-      <template v-slot:footer>
-        <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
-      </template>
-    </b-card>
-
     <b-card title="Sony Creator Space NY" :img-src="require('../assets/creatorSpace.png')" img-alt="Image" img-top>
       <b-card-text>
         Created this page using jQuery, HTML and SCSS, imported to Zesty CMS, values connected using Parsley templating language. Attached to Sony's Alpha Universe.
       </b-card-text>
             <b-button variant="outline-dark" href="https://www.linkedin.com/pulse/cities-future-dell-technologies-customer-solution-centers-jeff-mccann/">Visit site</b-button>
 
+      <template v-slot:footer>
+        <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
+      </template>
+    </b-card>
+    <b-card title="Concur localization for 22 languages" :img-src="require('../assets/concur.png')"  img-alt="Image" img-top>
+      <b-card-text>
+        Led development effort for implementing localization functionality for 22 languages, as well as importing trasnlation, adjusting UI and maintaining clean and organized git flows. Built using Vue, SASS, Bootstrap and Webpack.
+      </b-card-text>
+      <b-button variant="outline-dark" href="https://www.vmwareiotsolutions.com/">Learn more</b-button>
       <template v-slot:footer>
         <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
       </template>
