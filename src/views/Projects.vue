@@ -154,6 +154,59 @@
         </div>
         <div>
           <b-card-group style="margin-bottom:40px;" deck>
+            <b-card title="Epic" :img-src="require('../assets/EPIC.png')" img-alt="Image" img-top>
+              <b-card-text> </b-card-text>
+              <template v-slot:footer>
+                <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
+                <div class="icons">
+                  <img class="skill-icon" src="../assets/html.png" alt="" />
+                  <img class="skill-icon" src="../assets/js.png" alt="" />
+                  <img class="skill-icon" src="../assets/jquery.png" alt="" />
+                  <img class="skill-icon" src="../assets/sass.png" alt="" />
+
+                  <img class="skill-icon" src="../assets/bootstrap.png" alt="" />
+                </div>
+                <b-button variant="outline-dark" href="https://epicraves.com"
+                  >Visit site</b-button
+                >
+              </template>
+            </b-card>
+
+            <b-card title="Scope" :img-src="require('../assets/SCOPE.png')" img-alt="Image" img-top>
+              <b-card-text> </b-card-text>
+              <template v-slot:footer>
+                <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
+                <div class="icons">
+                  <img class="skill-icon" src="../assets/svelte.png" alt="" />
+                  <img class="skill-icon" src="../assets/js.png" alt="" />
+                  <img class="skill-icon" src="../assets/html.png" alt="" />
+                                    <img class="skill-icon" src="../assets/sass.png" alt="" />
+
+                </div>
+                <b-button variant="outline-dark" href="https://svelte-pi.netlify.com"
+                  >Visit site</b-button
+                >
+              </template>
+            </b-card>
+
+            <b-card title="Lavish Ent." :img-src="require('../assets/lavishent.png')" img-alt="Image" img-top>
+              <b-card-text> </b-card-text>
+              <template v-slot:footer>
+                <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
+                <div class="icons">
+                  <img class="skill-icon" src="../assets/vue.png" alt="" />
+                  <img class="skill-icon" src="../assets/sass.png" alt="" />
+                  <img class="skill-icon" src="../assets/js.png" alt="" />
+                  <img class="skill-icon" src="../assets/webpack.png" alt="" />
+                  <img class="skill-icon" src="../assets/bootstrap.png" alt="" />
+                </div>
+                <b-button variant="outline-dark" href="https://lavishentertainmentinc.com">Visit site</b-button>
+              </template>
+            </b-card>
+          </b-card-group>
+        </div>
+        <div>
+          <b-card-group style="margin-bottom:40px;" deck>
             <b-card title="Trendly" :img-src="require('../assets/trendly.png')" img-alt="Image" img-top>
               <b-card-text> </b-card-text>
               <template v-slot:footer>
